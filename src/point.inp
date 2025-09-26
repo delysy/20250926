@@ -1,0 +1,9 @@
+[INP FORMAT V5.53]
+[BOARDFIDUCIAL]
+BOARDID FIDID X        Y         TYPE    SIZE
+[POINT]
+BOARDID ID      REF                COMPID MCHID X        Y        R        NFID         BASEPTID       LEVEL ARRAYNO AVAILGANTID STEPZ
+1       1       ".1"               0      1     123444   456777   0        0            -1             0     1       0           0     
+[POINT_RANK]
+BOARDID POINTID FDBASEID FDLANEID RANK
+1       1       -1       -1       ""   
